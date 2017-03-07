@@ -13,7 +13,7 @@ The API provides access to:
 
 ## Typical Workflow Overview
 
-![Content API Typical Workflow](/assets/API_workflow.png)
+![Content API Typical Workflow](assets/API_workflow.png)
 
 _Work with your own editorial system_. Your editors search and download AP Images and AP Video content using your own editorial tools:
 
